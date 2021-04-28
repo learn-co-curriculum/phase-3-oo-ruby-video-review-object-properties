@@ -1,4 +1,4 @@
-# Video: Object Properties Review
+# Video: Object Orientation Review
 
 ## Overview
 
